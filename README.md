@@ -65,4 +65,4 @@ echo '
 
 `source ~/.zshrc`
 
-`wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/mtproxy.sh && chmod +x mtproxy.sh && bash mtproxy.sh`
+`sudo dpkg-reconfigure dash`
