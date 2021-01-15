@@ -64,5 +64,3 @@ echo '
 ## 更新配置文件
 
 `source ~/.zshrc`
-
-wget --no-check-certificate https://raw.github.com/Lozy/danted/master/install.sh -O install.sh bash install.sh --port=1080 --user=Appig --passwd=appig2021
