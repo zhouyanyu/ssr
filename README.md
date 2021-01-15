@@ -64,3 +64,5 @@ echo '
 ## 更新配置文件
 
 `source ~/.zshrc`
+
+`wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/mtproxy.sh && chmod +x mtproxy.sh && bash mtproxy.sh`
