@@ -2,8 +2,8 @@
 
 ## 安装zsh包
 
-centos `yum -y install zsh`
-ubuntu `apt -y install zsh`
+centos ```yum -y install zsh```
+ubuntu ```apt -y install zsh```
 
 ## 切换默认shell
 ```
@@ -11,8 +11,8 @@ chsh -s /bin/zsh
 ```
 
 ## 安装git
-centos `yum -y install git`
-ubuntu `apt -y install git`
+centos ```yum -y install git```
+ubuntu ```apt -y install git```
 
 ## 安装oh my zsh 
 ```
@@ -54,7 +54,7 @@ source ~/.zshrc
 ```
 
 ## 修改主题
-`ls ~/.oh-my-zsh/themes`
+```ls ~/.oh-my-zsh/themes```
 
 ## 修改主题
 ```
