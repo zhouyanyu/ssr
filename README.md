@@ -17,8 +17,14 @@ chsh -s /bin/zsh
 ```
 
 ## 安装git
-centos ```yum -y install git```
-ubuntu ```apt -y install git```
+centos 
+```
+yum -y install git
+```
+ubuntu 
+```
+apt -y install git
+```
 
 ## 安装oh my zsh 
 ```
@@ -79,6 +85,10 @@ echo '
 ```
 ## 更新配置文件
 
-`source ~/.zshrc`
+```
+source ~/.zshrc
+```
 
-`sudo dpkg-reconfigure dash`
+```
+sudo dpkg-reconfigure dash
+```
